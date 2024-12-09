@@ -12,6 +12,10 @@ dp = Dispatcher()
 def hello():
     pas
 
+def ismoil():
+    pass
+
+
 
 user_data = {}
 
