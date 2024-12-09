@@ -10,7 +10,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 def hello():
-    pass
+    pas
 
 
 user_data = {}
