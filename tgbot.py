@@ -9,6 +9,10 @@ TOKEN = "8010264669:AAGFjR6axBEzyFsSjv9oWJdKqUHehLboY6M"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
+def hello():
+    pass
+
+
 user_data = {}
 
 email = "kamoljon817@gmail.com"
