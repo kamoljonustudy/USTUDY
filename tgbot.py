@@ -10,7 +10,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 def hello():
-    pas
+    pass
 
 def ismoil():
     pass
